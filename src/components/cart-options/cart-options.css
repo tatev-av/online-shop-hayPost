@@ -1,0 +1,12 @@
+.cart-options {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.blue-button.big{
+    width: auto;
+    padding: 10px;
+    height: auto;
+    margin: 0 10px
+}

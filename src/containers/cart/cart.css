@@ -1,0 +1,21 @@
+.cart-container{
+    flex: 4;
+    background: #f7f7f7;
+    padding: 10px;
+}
+
+
+
+@media (max-width : 992px) {
+    .cart-container{
+        flex: 5
+    }
+}
+  
+@media (max-width : 768px) {
+
+}
+
+@media (max-width : 600px){
+
+}
